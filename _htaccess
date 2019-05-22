@@ -1,0 +1,3 @@
+ErrorDocument 404 /notfound.php
+ErrorDocument 403 /notfound.php
+Options - Indexes

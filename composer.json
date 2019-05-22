@@ -1,0 +1,15 @@
+{
+    "name": "mgs/mani",
+    "type": "project",
+    "license": "private",
+    "authors": [
+        {
+            "name": "Alexander Trauzzi",
+            "email": "alex@bitspacedevelopment.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^5.4",
+        "illuminate/support": "5.*"
+    }
+}

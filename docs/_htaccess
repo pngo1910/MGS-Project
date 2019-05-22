@@ -1,0 +1,3 @@
+RewriteEngine on
+RewriteCond %{HTTP_REFERER} !^http(s)?://(www\.)?mani.mbgenealogy.com [NC]
+RewriteRule \.(jpg|jpeg|png|gif|jpg|jpeg|png|gif|doc|docx|pdf|xls|xlsx|htm)$ - [NC,F,L]

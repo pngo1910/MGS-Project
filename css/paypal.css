@@ -1,0 +1,21 @@
+#paypal > table{
+	margin-bottom:10px;
+	width:21%;
+}
+
+#paypal > table > tbody > tr{
+	background:none;
+	border:none;
+}
+
+#paypal > input{
+	margin-left:20px;
+}
+
+#renewal > form > table{
+	margin-bottom:0px;
+}
+
+#renewal > form > h3, #renewal > h3{
+	margin-top:0px;
+}

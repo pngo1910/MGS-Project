@@ -1,0 +1,9 @@
+12 Nov 2016 - Mark Nelson
+
+1. This folder is where you may place DOCS and PDFS and link to the files via the index.php file.
+
+2. The index.php file forces a login to MANI.  If a user is not logged in then they are sent to the MANI login page.
+
+3.  The .htaccess file denys any user who tries to hotlink directly to files in this folder.  It is set to protect files with the following extensions: jpg jpeg png gif doc docx pdf xls xlsx htm
+
+3. To add a document to the list add the document to this folder.  Then edit the HTML in the index.php file and add documents to the list of items.

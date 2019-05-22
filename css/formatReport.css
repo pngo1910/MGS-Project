@@ -1,0 +1,22 @@
+#container {
+	width:100%;
+	margin-top:5%;
+	padding-left:5%;
+}
+
+header {
+	text-align:center;
+	width:35%;
+	margin:0 auto;
+	line-height:0.1em;
+}
+
+header p {
+	font-style:italic;
+}
+
+#centerHeading {
+	text-align:center;
+	margin-top:5%;
+}
+
